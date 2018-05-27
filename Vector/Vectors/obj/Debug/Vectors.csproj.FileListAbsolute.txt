@@ -1,0 +1,20 @@
+C:\Users\Вадим Бидюк\source\repos\Vectors\Vectors\bin\Debug\Vectors.exe.config
+C:\Users\Вадим Бидюк\source\repos\Vectors\Vectors\bin\Debug\Vectors.exe
+C:\Users\Вадим Бидюк\source\repos\Vectors\Vectors\bin\Debug\Vectors.pdb
+C:\Users\Вадим Бидюк\source\repos\Vectors\Vectors\obj\Debug\Vectors.csprojResolveAssemblyReference.cache
+C:\Users\Вадим Бидюк\source\repos\Vectors\Vectors\obj\Debug\Vectors.Form1.resources
+C:\Users\Вадим Бидюк\source\repos\Vectors\Vectors\obj\Debug\Vectors.Properties.Resources.resources
+C:\Users\Вадим Бидюк\source\repos\Vectors\Vectors\obj\Debug\Vectors.csproj.GenerateResource.cache
+C:\Users\Вадим Бидюк\source\repos\Vectors\Vectors\obj\Debug\Vectors.csproj.CoreCompileInputs.cache
+C:\Users\Вадим Бидюк\source\repos\Vectors\Vectors\obj\Debug\Vectors.exe
+C:\Users\Вадим Бидюк\source\repos\Vectors\Vectors\obj\Debug\Vectors.pdb
+C:\Users\Bidu4ek\Desktop\2\repos\Vectors\Vectors\bin\Debug\Vectors.exe.config
+C:\Users\Bidu4ek\Desktop\2\repos\Vectors\Vectors\bin\Debug\Vectors.exe
+C:\Users\Bidu4ek\Desktop\2\repos\Vectors\Vectors\bin\Debug\Vectors.pdb
+C:\Users\Bidu4ek\Desktop\2\repos\Vectors\Vectors\obj\Debug\Vectors.csprojAssemblyReference.cache
+C:\Users\Bidu4ek\Desktop\2\repos\Vectors\Vectors\obj\Debug\Vectors.Form1.resources
+C:\Users\Bidu4ek\Desktop\2\repos\Vectors\Vectors\obj\Debug\Vectors.Properties.Resources.resources
+C:\Users\Bidu4ek\Desktop\2\repos\Vectors\Vectors\obj\Debug\Vectors.csproj.GenerateResource.cache
+C:\Users\Bidu4ek\Desktop\2\repos\Vectors\Vectors\obj\Debug\Vectors.csproj.CoreCompileInputs.cache
+C:\Users\Bidu4ek\Desktop\2\repos\Vectors\Vectors\obj\Debug\Vectors.exe
+C:\Users\Bidu4ek\Desktop\2\repos\Vectors\Vectors\obj\Debug\Vectors.pdb
